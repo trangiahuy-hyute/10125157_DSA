@@ -1,7 +1,16 @@
-# Buổi 01 - Đệ quy
+````markdown
+# Buổi 01 – Đệ quy
 
-## Nội dung
-- Bài tập đệ quy
+Họ tên: Nguyễn Văn A · MSV: 10123456
 
-## Kết quả
-Đang thực hiện.
+## Bài đã làm
+Bài 1, 2, 3, 4 (chưa làm bài 5)
+
+## Cách chạy
+```
+dotnet run --project Buoi01_DeQuy
+```
+
+## Kết quả chạy
+```
+=== Bài 1 ===
