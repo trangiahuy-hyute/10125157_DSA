@@ -1,5 +1,5 @@
-```markdown
 # Bài tập CTDL&GT – 211131
+
 - Họ tên: Trần Gia Huy
 - MSV: 10125157
 - Lớp: 10125O.1
@@ -13,4 +13,3 @@
 | 05 | Sắp xếp | Buoi05_SapXep | Chưa nộp |
 | 06 | Tìm kiếm | Buoi06_TimKiem | Chưa nộp |
 | BTL | Bài tập lớn | BaiTapLon | Chưa nộp |
-```
