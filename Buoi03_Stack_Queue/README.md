@@ -16,7 +16,7 @@
 
 ## 2. Cách chạy
 Sử dụng lệnh:
-dotnet run --project Buoi02_DanhSach
+dotnet run --project Buoi03_Stack_Queue
 
 ## 3. Kết quả chạy
 ```bash
