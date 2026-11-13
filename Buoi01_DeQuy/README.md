@@ -16,3 +16,7 @@ Sử dụng lệnh:
 
 ```bash
 dotnet run --project Buoi01_DeQuy
+=== Bài 1 ===
+...
+So lon nhat trong mang la: 1000
+So be nhat trong mang la: 1
