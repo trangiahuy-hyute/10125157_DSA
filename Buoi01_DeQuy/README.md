@@ -18,7 +18,6 @@ dotnet run --project Buoi01_DeQuy
 ## 3. Kết quả chạy
 ```bash
 === Bài 1 ===
-...
 So lon nhat trong mang la: 1000
 So be nhat trong mang la: 1
 === Bài 2 ===
