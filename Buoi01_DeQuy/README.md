@@ -13,9 +13,10 @@
 
 ## 2. Cách chạy
 Sử dụng lệnh:
-
-```bash
 dotnet run --project Buoi01_DeQuy
+
+## 3. Kết quả chạy
+```bash
 === Bài 1 ===
 ...
 So lon nhat trong mang la: 1000
