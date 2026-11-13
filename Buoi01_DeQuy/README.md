@@ -18,4 +18,4 @@ dotnet run --project Buoi01_DeQuy
 So lon nhat trong mang la: 1000
 So be nhat trong mang la: 1
 ```
-````
+
